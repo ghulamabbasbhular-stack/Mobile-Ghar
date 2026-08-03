@@ -1,0 +1,3 @@
+console.log("Welcome to Mobile Ghar!");
+
+alert("Welcome to Mobile Ghar Website");
