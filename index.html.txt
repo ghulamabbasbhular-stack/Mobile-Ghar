@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mobile Ghar</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+<h1>📱 Mobile Ghar</h1>
+<p>Wholesale & Retail Mobile Accessories</p>
+</header>
+
+<section class="products">
+<div class="card">
+<h2>Chargers</h2>
+<p>20W | 25W | 45W | 65W Fast Chargers</p>
+</div>
+
+<div class="card">
+<h2>Data Cables</h2>
+<p>Type-C | iPhone | Micro USB</p>
+</div>
+
+<div class="card">
+<h2>AirPods</h2>
+<p>Wireless Earbuds Available</p>
+</div>
+
+<div class="card">
+<h2>Power Banks</h2>
+<p>10000mAh & 20000mAh</p>
+</div>
+</section>
+
+<footer>
+<p>CEO: Ghulam Abbas</p>
+<p>📞 0300-8767320</p>
+<p>Tail Indus Road, Layyah | Link Road, Kotla Haji Shah</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
